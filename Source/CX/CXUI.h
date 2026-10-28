@@ -1,4 +1,6 @@
-﻿#include "CoreMinimal.h"
+﻿#pragma once
+
+#include "CoreMinimal.h"
 #include "Blueprint/UserWidget.h"
 #include "CXUI.generated.h"
 
